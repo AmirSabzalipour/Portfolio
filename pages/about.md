@@ -5,10 +5,9 @@ permalink: /about/
 feature-img: "assets/img/pexels/travel.jpeg"
 tags: [Page]
 ---
-
-Type on Strap is based on Type Theme, a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
-
-Head over to the [theme's documentation](https://github.com/sylhare/Type-on-Strap) for much more information about Type on Strap or to install this theme on your own Jekyll site.
-
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
- 
+Data science, large language modeling (LLM), natural language processing (NLP), and machine learning researcher with a strong foundation in mathematics, computational physics, numerical optimization,
+and large-scale data analysis. My work spans interdisciplinary projects that integrate computational,
+experimental, and theoretical approaches to solve complex challenges in scientific research, industry, and
+diverse fields—including healthcare, materials science, digital humanities, and media innovation. Highly
+analytical and driven by innovation, I excel at distilling complex concepts into clear insights and am
+committed to continuous learning and problem-solving.
