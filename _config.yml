@@ -1,6 +1,9 @@
 # SITE CONFIGURATION
-baseurl: ""
-url: "https://github.com/AmirSabzalipour/Portfolio.git"
+
+baseurl:"/Portfolio"
+url: "https://amirsabzalipour.github.io"
+
+
 
 # THEME-SPECIFIC CONFIGURATION
 title: Type on Strap                                    # site's title
