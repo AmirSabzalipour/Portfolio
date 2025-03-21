@@ -2,7 +2,7 @@ baseurl: "/Portfolio"  # For project site (repository named 'Portfolio')
 url: "https://amirsabzalipour.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
-title: Type on Strap                                    # site's title
+title: 🏡                                    # site's title
 description: "A website with blog posts and pages"      # used by search engines
 avatar: assets/img/avatar.jpg                         # Empty for no avatar in navbar
 favicon: assets/favicon.ico                             # Icon displayed in the tab
