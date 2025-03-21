@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Gallery
+title: Education
 subtitle: From the pexels folder
 permalink: /gallery/
 gallery_path: "assets/img/pexels"
@@ -9,8 +9,35 @@ position: 3
 tags: [Page]
 ---
 
-This is a photo gallery made from the static files in the `assets/img/pexels` folder. 
-I wanted to automatically create a simple gallery from a folder without having to create a markdown page as you would for the portfolio.
+
+## Education
+
+**09.2023 Present**
+
+**Master of Digital Text Analysis**, University of Antwerp.
+
+* [1] Thesis title: Enhancing LLM Evaluation: A Synthetic Data Approach to Context Understanding
+
+* [2] Applying Large Language Models, NLP, Machine Learning, and Data Science to perform computational tasks on diverse textual and numerical content.
+
+**03.2017 10.2021**
+
+**Ph.D. in Physics**, University of Antwerp, Belgium.
+
+* [3] Thesis title: "Charge Transport in Magnetic Topological Insulators"
+
+**09.2011 04.2014**
+
+**M.Sc. in Physics**, Institute for Advanced Studies in Basic Science, Iran.
+
+* [4] Studying quantum interaction effect on the anisotropic properties of materials.
+
+**09.2003 04.2008**
+
+**B.Sc in Physics**, University of Tehran, Tehran, Iran.
+
+* [5] Thin film fabrication by Physical Vapor Deposition (PVD) techniques.
+
 
 
 {% include gallery.html gallery_path=page.gallery_path %}
