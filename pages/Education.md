@@ -10,9 +10,10 @@ tags: [Page]
 ---
 
 
-**09.2023- Present**
 
-**Master of Digital Text Analysis**, University of Antwerp.
+
+**Master of Digital Text Analysis**, 
+University of Antwerp, **09.2023- Present**
 
  *Thesis title: Enhancing LLM Evaluation: A Synthetic Data Approach to Context Understanding
 
