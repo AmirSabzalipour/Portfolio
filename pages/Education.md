@@ -12,14 +12,14 @@ tags: [Page]
 
 
 
-**Master of Digital Text Analysis**, 
+**Master of Digital Text Analysis**
 </p>
 <p>
 <span style="color: #4A7A4A;">University of Antwerp, 09.2023- Present</span>
 </p>
 <p>
 
- *Thesis title: Enhancing LLM Evaluation: A Synthetic Data Approach to Context Understanding
+ **Thesis title: Enhancing LLM Evaluation: A Synthetic Data Approach to Context Understanding**
 
   Applying Large Language Models, NLP, Machine Learning, and Data Science to perform computational tasks on diverse textual and numerical content.
 
@@ -28,10 +28,10 @@ tags: [Page]
 </p>
 <p>
 
-**Ph.D. in Physics**, University of Antwerp, Belgium.
+**Ph.D. in Physics**,
 </p>
 <p>
-**03.2017- 10.2021**
+ University of Antwerp, Belgium. **03.2017- 10.2021**
 </p>
 <p>
 * Thesis title: "Charge Transport in Magnetic Topological Insulators"
