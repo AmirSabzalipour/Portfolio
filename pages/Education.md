@@ -10,8 +10,6 @@ tags: [Page]
 ---
 
 
-## Education
-
 **09.2023- Present**
 
 **Master of Digital Text Analysis**, University of Antwerp.
