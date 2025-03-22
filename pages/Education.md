@@ -23,21 +23,48 @@ tags: [Page]
 
   Applying Large Language Models, NLP, Machine Learning, and Data Science to perform computational tasks on diverse textual and numerical content.
 
-**03.2017- 10.2021**
+</p>
+<p>
+</p>
+<p>
 
 **Ph.D. in Physics**, University of Antwerp, Belgium.
-
+</p>
+<p>
+**03.2017- 10.2021**
+</p>
+<p>
 * Thesis title: "Charge Transport in Magnetic Topological Insulators"
 
-**09.2011 04.2014**
 
-**M.Sc. in Physics**, Institute for Advanced Studies in Basic Science, Iran.
+</p>
+<p>
+</p>
+<p>
 
+
+**M.Sc. in Physics**, 
+</p>
+<p>
+Institute for Advanced Studies in Basic Science, Iran, **09.2011 04.2014**
+</p>
+<p>
+  
 * Studying quantum interaction effect on the anisotropic properties of materials.
 
-**09.2003 04.2008**
+</p>
+<p>
+</p>
+<p>
 
-**B.Sc in Physics**, University of Tehran, Tehran, Iran.
+
+**B.Sc in Physics**,
+    </p>
+<p>
+
+ University of Tehran, Tehran, Iran. **09.2003 04.2008**
+</p>
+<p>
 
 * Thin film fabrication by Physical Vapor Deposition (PVD) techniques.
 
