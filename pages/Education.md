@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Education
-subtitle: From the pexels folder
+subtitle: 
 permalink: /gallery/
 gallery_path: "assets/img/pexels"
 excluded: true
