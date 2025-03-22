@@ -25,7 +25,7 @@ tags: [Page]
 </p>
 
 <!-- Extra space -->
-<p style="margin-bottom: 20px;"></p>
+<p style="margin-bottom: 50px;"></p>
 
 <p>
   <strong>Ph.D. in Physics</strong>
@@ -38,7 +38,7 @@ tags: [Page]
 </p>
 
 <!-- Extra space -->
-<p style="margin-bottom: 20px;"></p>
+<p style="margin-bottom: 50px;"></p>
 
 <p>
   <strong>M.Sc. in Physics</strong>
@@ -51,7 +51,7 @@ tags: [Page]
 </p>
 
 <!-- Extra space -->
-<p style="margin-bottom: 20px;"></p>
+<p style="margin-bottom: 50px;"></p>
 
 <p>
   <strong>B.Sc in Physics</strong>
