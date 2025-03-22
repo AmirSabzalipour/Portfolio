@@ -11,63 +11,57 @@ tags: [Page]
 
 
 
-
-**Master of Digital Text Analysis**
+<p>
+  <strong>Master of Digital Text Analysis</strong>
 </p>
 <p>
-<span style="color: #4A7A4A;">University of Antwerp, 09.2023- Present</span>
+  <span style="color: #4A7A4A;">University of Antwerp, 09.2023- Present</span>
 </p>
 <p>
-
- **Thesis title: Enhancing LLM Evaluation: A Synthetic Data Approach to Context Understanding**
-
+  <em>Thesis title: Enhancing LLM Evaluation: A Synthetic Data Approach to Context Understanding</em>
+</p>
+<p>
   Applying Large Language Models, NLP, Machine Learning, and Data Science to perform computational tasks on diverse textual and numerical content.
+</p>
 
+<!-- Extra space -->
+<p style="margin-bottom: 20px;"></p>
+
+<p>
+  <strong>Ph.D. in Physics</strong>
 </p>
 <p>
+  University of Antwerp, Belgium. <strong>03.2017- 10.2021</strong>
 </p>
 <p>
+  <em>Thesis title: "Charge Transport in Magnetic Topological Insulators"</em>
+</p>
 
-**Ph.D. in Physics**,
+<!-- Extra space -->
+<p style="margin-bottom: 20px;"></p>
+
+<p>
+  <strong>M.Sc. in Physics</strong>
 </p>
 <p>
- University of Antwerp, Belgium. **03.2017- 10.2021**
+  Institute for Advanced Studies in Basic Science, Iran, <strong>09.2011 04.2014</strong>
 </p>
 <p>
-* Thesis title: "Charge Transport in Magnetic Topological Insulators"
+  <em>Studying quantum interaction effect on the anisotropic properties of materials.</em>
+</p>
 
+<!-- Extra space -->
+<p style="margin-bottom: 20px;"></p>
 
+<p>
+  <strong>B.Sc in Physics</strong>
 </p>
 <p>
+  University of Tehran, Tehran, Iran. <strong>09.2003 04.2008</strong>
 </p>
 <p>
-
-
-**M.Sc. in Physics**, 
+  <em>Thin film fabrication by Physical Vapor Deposition (PVD) techniques.</em>
 </p>
-<p>
-Institute for Advanced Studies in Basic Science, Iran, **09.2011 04.2014**
-</p>
-<p>
-  
-* Studying quantum interaction effect on the anisotropic properties of materials.
-
-</p>
-<p>
-</p>
-<p>
-
-
-**B.Sc in Physics**,
-    </p>
-<p>
-
- University of Tehran, Tehran, Iran. **09.2003 04.2008**
-</p>
-<p>
-
-* Thin film fabrication by Physical Vapor Deposition (PVD) techniques.
-
 
 
 {% include gallery.html gallery_path=page.gallery_path %}
