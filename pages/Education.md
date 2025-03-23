@@ -24,7 +24,7 @@ tags: [Page]
 
 <span style="font-size:24px; color: rgba(46, 89, 160,1);font-weight: bold; margin-bottom: 0px;">Ph.D. in Physics</span>
 <p style="color: rgba(100, 100, 100,1); font-size:19px; margin-top: -20px;margin-left:0px;">
-  University of Antwerp, Belgium, 09.2023 - Present.
+  University of Antwerp, Belgium, 03.2017 - 10.2021
 </p>
 <p style="color: rgba(100, 100, 100,1); font-size:20px;margin-top: 0px; margin-left: 20px;">
   Thesis title: Charge Transport in Magnetic Topological Insulators
