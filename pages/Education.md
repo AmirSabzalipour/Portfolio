@@ -8,19 +8,19 @@ excluded: true
 position: 3
 tags: [Page]
 ---
-<span style="font-size:30px; color: rgba(46, 89, 160,1);">Master of Digital Text Analysis</span>
-<p style="margin-top: 0px;">
+<span style="font-size:30px; color: rgba(46, 89, 160,1); margin-bottom: -2px;">Master of Digital Text Analysis</span>
+<p style="margin-top: -3px;">
   University of Antwerp, Belgium. <strong>09.2023 - Present</strong>
 </p>
 <p style="margin-top: -4px; margin-left: 20px;">
-  <em>Thesis title: Enhancing LLM Evaluation: A Synthetic Data Approach to Context Understanding</em>
+  <em>-Thesis title: Enhancing LLM Evaluation: A Synthetic Data Approach to Context Understanding</em>
 </p>
 <p style="margin-top: 0px;margin-left: 20px;">
-  Applying Large Language Models, NLP, Machine Learning, and Data Science to perform computational tasks on diverse textual and numerical content.
+  -Applying Large Language Models, NLP, Machine Learning, and Data Science to perform computational tasks on diverse textual and numerical content.
 </p>
 
 <!-- Extra space -->
-<p style="margin-bottom: 50px;"></p>
+<p style="margin-bottom: 500px;"></p>
 
 <p>
   <strong>Ph.D. in Physics</strong>
