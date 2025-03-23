@@ -13,10 +13,10 @@ tags: [Page]
   University of Antwerp, Belgium, 09.2023 - Present.
 </p>
 <p style="margin-top: 0px; margin-left: 20px;">
-  <em> ■ Thesis title: Enhancing LLM Evaluation: A Synthetic Data Approach to Context Understanding</em>
+  <em> Thesis title: Enhancing LLM Evaluation: A Synthetic Data Approach to Context Understanding</em>
 </p>
 <p style="margin-top: 0px; margin-top: -10px; margin-left: 20px;">
-   ■ Applying Large Language Models, NLP, Machine Learning, and Data Science to perform computational tasks on diverse textual and numerical content.
+   Applying Large Language Models, NLP, Machine Learning, and Data Science to perform computational tasks on diverse textual and numerical content.
 </p>
 
 <p style="margin-bottom: 100px;"></p>
@@ -54,7 +54,7 @@ tags: [Page]
   Institute for Advanced Studies in Basic Science, Iran, <strong>09.2011 04.2014</strong>
 </p>
 <p>
-  <em> ■ Thesis title: Studying quantum interaction effect on the anisotropic properties of materials.</em>
+  <em> Thesis title: Studying quantum interaction effect on the anisotropic properties of materials.</em>
 </p>
 
 <!-- Extra space -->
@@ -67,7 +67,7 @@ tags: [Page]
   University of Tehran, Tehran, Iran. <strong>09.2003 04.2008</strong>
 </p>
 <p>
-  <em> ■ Thesis title: Thin film fabrication by Physical Vapor Deposition (PVD) techniques.</em>
+  <em> Thesis title: Thin film fabrication by Physical Vapor Deposition (PVD) techniques.</em>
 </p>
 
 
