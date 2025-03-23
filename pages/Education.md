@@ -8,7 +8,8 @@ excluded: true
 position: 3
 tags: [Page]
 ---
-<span style="font-size:24px; color: rgba(46, 89, 160,1);font-weight: bold; margin-bottom: 0px;"> ▬▬▬▬ Master of Digital Text Analysis</span>
+<span style="font-size:24px; color: rgba(46, 89, 160,1);font-weight: bold; margin-bottom: 0px;"> 
+<span style="display: inline-block; width: 50px; height: 60px; background-color: blue; margin-right: 10px;"></span>Master of Digital Text Analysis</span>
 
 <p style="font-size:19px; color: rgba(100, 100, 100,1);ray; margin-top: -20px;margin-left:0px;">
   University of Antwerp, Belgium, 09.2023 - Present.
