@@ -8,38 +8,65 @@ position: 4
 tags: [Page]
 ---
 ## Selected Work Experience
+<span style="font-size:24px; color: rgba(46, 89, 160,1);font-weight: bold; margin-bottom: 0px;">Large Language Model Engineer (Intern)</span>
+<p style="font-size:19px; color: rgba(100, 100, 100,1); margin-top: -20px;margin-left:0px;">
+  Karel de Grote University of Applied Sciences & Arts, Antwerp, Belgium, 10.2024 - Present
+</p>
+<p style="color: rgba(100, 100, 100,1); font-size:20px; margin-top: 0px; margin-left: 0px;">
+  Contributing to the Explainmed project to improve patient comprehension of medical letters.
+</p>
+<p style="font-size:20px; margin-top: -10px; margin-left: 0px; color: rgba(100, 100, 100,1);">
+  Using LLMs, ML classifiers, and clustering techniques to identify and simplify medical terms in patient prescriptions.
+</p>
 
-**10.2024**  
-Large Language Model Engineer (Intern), Karel de Grote University of Applesen  
-PLIED SCIENCES ARTS, Antwerp, Belgium.  
-○ Contributing to the Explainmed project to improve patient comprehension of medical letters.  
-○ Using LLMs, ML classifiers, and clustering techniques to identify and simplify medical terms in patient prescriptions  
+<p style="margin-bottom: 50px;"></p>
 
-**10.2021**  
-Postdoctoral Researcher, University of Antwerp, Antwerp, Belgium.  
+<span style="font-size:24px; color: rgba(46, 89, 160,1);font-weight: bold; margin-bottom: 0px;">Postdoctoral Researcher</span>
+<p style="font-size:19px; color: rgba(100, 100, 100,1); margin-top: -20px;margin-left:0px;">
+  University of Antwerp, Antwerp, Belgium, 10.2021 - 06.2023
+</p>
+<p style="color: rgba(100, 100, 100,1); font-size:20px; margin-top: 0px; margin-left: 0px;">
+  Python-based modeling and simulation of electrical resistivity at micron and nanometer scales.
+</p>
+<p style="font-size:20px; margin-top: -10px; margin-left: 0px;color: rgba(100, 100, 100,1);">
+  Computational simulation of quantum, statistical, electrical, and topological phenomena.
+</p>
 
-**06.2023**  
-○ Python-based modeling and simulation of electrical resistivity at micron and nanometer scales.  
-○ Computational simulation of quantum, statistical, electrical, and topological phenomena.  
+<p style="margin-bottom: 50px;"></p>
 
-**03.2017**  
-Doctoral Researcher, University of Antwerp, Antwerp, Belgium.  
+<span style="font-size:24px; color: rgba(46, 89, 160,1);font-weight: bold; margin-bottom: 0px;">Doctoral Researcher</span>
+<p style="font-size:19px; color: rgba(100, 100, 100,1); margin-top: -20px;margin-left:0px;">
+  University of Antwerp, Antwerp, Belgium, 03.2017 - 10.2021
+</p>
+<p style="color: rgba(100, 100, 100,1); font-size:20px; margin-top: 0px; margin-left: 0px;">
+  Simulations of materials using VASP package on a High-Performance Computing (HPC) cluster.
+</p>
+<p style="font-size:20px; margin-top: -10px; margin-left: 0px;color: rgba(100, 100, 100,1);">
+  Conducting numeric and analytical computations utilizing the Wolfram Language and Python.
+</p>
 
-**10.2021**  
-○ Simulations of materials using VASP package on a High-performance computing (HPC) cluster.  
-○ Conducting numeric and analytical computations utilizing the Wolfram Language and Python.  
+<p style="margin-bottom: 50px;"></p>
 
-**02.2016**  
-Visiting Researcher, Institute for Research in Fundamental Sciences, Iran.  
+<span style="font-size:24px; color: rgba(46, 89, 160,1);font-weight: bold; margin-bottom: 0px;">Visiting Researcher</span>
+<p style="font-size:19px; color: rgba(100, 100, 100,1); margin-top: -20px;margin-left:0px;">
+  Institute for Research in Fundamental Sciences, Iran, 02.2016 - 02.2017
+</p>
+<p style="color: rgba(100, 100, 100,1); font-size:20px; margin-top: 0px; margin-left: 0px;">
+  Numerical modeling of anomalous transverse electrical properties of magnetic materials.
+</p>
 
-**02.2017**  
-○ Numerical modeling of anomalous transverse electrical properties of magnetic materials.  
+<p style="margin-bottom: 50px;"></p>
 
-**10.2015**  
-Visiting Researcher, Uppsala University, Uppsala, Sweden.  
+<span style="font-size:24px; color: rgba(46, 89, 160,1);font-weight: bold; margin-bottom: 0px;">Visiting Researcher</span>
+<p style="font-size:19px; color: rgba(100, 100, 100,1); margin-top: -20px;margin-left:0px;">
+  Uppsala University, Uppsala, Sweden, 10.2015 - 01.2016
+</p>
+<p style="color: rgba(100, 100, 100,1); font-size:20px; margin-top: 0px; margin-left: 0px;">
+  Nanoscale simulations of 2D materials using the Quantum ESPRESSO package.
+</p>
 
-**01.2016**  
-○ Nanoscale simulations of 2D materials using Quantum ESPRESSO package.  
+<p style="margin-bottom: 50px;"></p>
+
 
 
 {% include portfolio.html %}
