@@ -27,7 +27,7 @@ tags: [Page]
   University of Antwerp, Belgium, 09.2023 - Present.
 </p>
 <p style="color: rgba(100, 100, 100,1); font-size:20px;margin-top: 0px; margin-left: 20px;">
-  <em> Thesis title: Charge Transport in Magnetic Topological Insulators</em>
+  Thesis title: Charge Transport in Magnetic Topological Insulators
 </p>
 
 <p style="margin-bottom: 50px;"></p>
@@ -47,7 +47,7 @@ tags: [Page]
 <p style="color: rgba(100, 100, 100,1); font-size:19px; margin-top: -20px;margin-left:0px;">
     University of Tehran, Tehran, Iran, 09.2003 04.2008
 </p>
-<p style="margin-top: 0px;color: rgba(100, 100, 100,1); margin-left: 20px;color: rgba(100, 100, 100,1);">
+<p style="margin-top: 0px;color: rgba(100, 100, 100,1);font-size:20px; margin-left: 20px;">
   Thesis title: Thin film fabrication by Physical Vapor Deposition (PVD) techniques.
 </p>
 
