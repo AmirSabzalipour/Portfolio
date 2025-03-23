@@ -23,7 +23,7 @@ tags: [Page]
 <p>
   Applying Large Language Models, NLP, Machine Learning, and Data Science to perform computational tasks on diverse textual and numerical content.
 </p>
-  <ul style="font-size: 15px; font-family: 'Avenir Next LT Pro', sans-serif; margin-left: 1.7em; color: black;">
+  <ul style="font-size: 40px; color: black;">
             <li style="margin-bottom: 10px;">
                 Applying Large Language Models, NLP, Machine Learning, and Data Science to perform computational tasks on diverse text content.
             </li>
