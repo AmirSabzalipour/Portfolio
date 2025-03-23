@@ -13,8 +13,6 @@ tags: [Page]
 
 <p>
   <strong>Master of Digital Text Analysis</strong>
-</p>
-<p>
   <span style="color: #4A7A4A;">University of Antwerp, 09.2023- Present</span>
 </p>
 <p>
