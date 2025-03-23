@@ -24,10 +24,8 @@ tags: [Page]
   Applying Large Language Models, NLP, Machine Learning, and Data Science to perform computational tasks on diverse textual and numerical content.
 </p>
   <ul style="font-size: 40px; color: black;">
-            <li style="margin-bottom: 10px;">
-                Applying Large Language Models, NLP, Machine Learning, and Data Science to perform computational tasks on diverse text content.
-            </li>
-        </ul>
+                           Applying Large Language Models, NLP, Machine Learning, and Data Science to perform computational tasks on diverse text content.
+                </ul>
 
 <!-- Extra space -->
 <p style="margin-bottom: 50px;"></p>
