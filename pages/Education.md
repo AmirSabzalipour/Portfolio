@@ -12,10 +12,11 @@ tags: [Page]
 
 
 <p>
-  <strong>Master of Digital Text Analysis</strong>
+  <strong></strong>
+    <ul style="font-size: 20px; color: color: #4A7A4A;"> Master of Digital Text Analysis </ul>
   </p>
 <p>
-  <span style="color: #4A7A4A;">University of Antwerp, 09.2023- Present</span>
+  <span style="color: gray;">University of Antwerp, 09.2023- Present</span>
 </p>
 <p>
   <em>Thesis title: Enhancing LLM Evaluation: A Synthetic Data Approach to Context Understanding</em>
@@ -23,9 +24,8 @@ tags: [Page]
 <p>
   Applying Large Language Models, NLP, Machine Learning, and Data Science to perform computational tasks on diverse textual and numerical content.
 </p>
-  <ul style="font-size: 40px; color: black;">
-                           Applying Large Language Models, NLP, Machine Learning, and Data Science to perform computational tasks on diverse text content.
-                </ul>
+
+               
 
 <!-- Extra space -->
 <p style="margin-bottom: 50px;"></p>
