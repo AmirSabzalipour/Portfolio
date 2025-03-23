@@ -23,7 +23,9 @@ tags: [Page]
 <p style="margin-bottom: 500px;"></p>
 
 <p>
-  <strong>Ph.D. in Physics</strong>
+
+<span style="font-size:22px; color: rgba(46, 89, 160,1);font-weight: bold; margin-bottom: 0px;">Ph.D. in Physics</span>
+
 </p>
 <p>
   University of Antwerp, Belgium. <strong>03.2017- 10.2021</strong>
@@ -36,7 +38,8 @@ tags: [Page]
 <p style="margin-bottom: 50px;"></p>
 
 <p>
-  <strong>M.Sc. in Physics</strong>
+
+<span style="font-size:22px; color: rgba(46, 89, 160,1);font-weight: bold; margin-bottom: 0px;">M.Sc. in Physics</span>
 </p>
 <p>
   Institute for Advanced Studies in Basic Science, Iran, <strong>09.2011 04.2014</strong>
@@ -49,7 +52,7 @@ tags: [Page]
 <p style="margin-bottom: 50px;"></p>
 
 <p>
-  <strong>B.Sc in Physics</strong>
+<span style="font-size:22px; color: rgba(46, 89, 160,1);font-weight: bold; margin-bottom: 0px;">B.Sc. in Physics</span>
 </p>
 <p>
   University of Tehran, Tehran, Iran. <strong>09.2003 04.2008</strong>
