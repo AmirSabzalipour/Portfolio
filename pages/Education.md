@@ -13,9 +13,9 @@ tags: [Page]
   University of Antwerp, Belgium, 09.2023 - Present.
 </p>
 <p style="margin-top: 0px; margin-left: 20px;">
-  <em>-Thesis title: Enhancing LLM Evaluation: A Synthetic Data Approach to Context Understanding</em>
+  <em>Thesis title: Enhancing LLM Evaluation: A Synthetic Data Approach to Context Understanding</em>
 </p>
-<p style="margin-top: 0px;margin-left: 20px;">
+<p style="margin-top: 0px; margin-top: -20px; margin-left: 20px;">
   -Applying Large Language Models, NLP, Machine Learning, and Data Science to perform computational tasks on diverse textual and numerical content.
 </p>
 
