@@ -19,17 +19,16 @@ tags: [Page]
   -Applying Large Language Models, NLP, Machine Learning, and Data Science to perform computational tasks on diverse textual and numerical content.
 </p>
 
-<!-- Extra space -->
-<p style="margin-bottom: 500px;"></p>
+<p style="margin-bottom: 100px;"></p>
 
 <p>
-
 <span style="font-size:22px; color: rgba(46, 89, 160,1);font-weight: bold; margin-bottom: 0px;">Ph.D. in Physics</span>
-
 </p>
+
 <p>
   University of Antwerp, Belgium. <strong>03.2017- 10.2021</strong>
-</p>
+</p
+  
 <p>
   <em>Thesis title: "Charge Transport in Magnetic Topological Insulators"</em>
 </p>
