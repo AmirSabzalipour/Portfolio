@@ -50,5 +50,4 @@ tags: [Page]
 </p>
 
 
-
-{% include gallery.html gallery_path=page.gallery_path %}
+{% include portfolio.html %}
