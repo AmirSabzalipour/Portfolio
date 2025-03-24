@@ -1,7 +1,7 @@
 --- 
 layout: page
 title : Work Experience 
-permalink: /Work Experience/
+permalink: /Portfolio/
 subtitle: "" 
 feature-img: "assets/img/pexels/computer.jpeg"
 position: 3
