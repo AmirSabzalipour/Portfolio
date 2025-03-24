@@ -3,7 +3,7 @@ layout: page
 title : Education 
 permalink: /Education/
 subtitle: "" 
-feature-img: "assets/img/pexels/education.jpeg"
+feature-img: "assets/img/pexels/education.jpg"
 position: 4
 tags: [Page]
 ---
