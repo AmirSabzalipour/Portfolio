@@ -4,7 +4,7 @@ title : Work Experience
 permalink: /portfolio/
 subtitle: "" 
 feature-img: "assets/img/pexels/computer.jpeg"
-position: 4
+position: 3
 tags: [Page]
 ---
 ## Selected Work Experience
