@@ -4,7 +4,7 @@ title : Skills
 permalink: /skills/
 subtitle: "" 
 feature-img: "assets/img/pexels/computer.jpeg"
-position: 5
+position: 2
 tags: [Page]
 ---
 
