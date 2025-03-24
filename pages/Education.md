@@ -3,7 +3,6 @@ layout: page
 title: Education
 permalink: /Education/
 feature-img: "assets/img/pexels/education.jpg" 
-gallery_path: "assets/img/pexels"
 position: 4
 tags: [Page]
 ---
