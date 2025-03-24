@@ -50,4 +50,3 @@ tags: [Page]
 </p>
 
 
-{% include portfolio.html %}
