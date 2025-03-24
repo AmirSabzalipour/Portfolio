@@ -1,55 +1,75 @@
----
+--- 
 layout: page
-title: Education
-subtitle: 
-permalink: /gallery/
-gallery_path: "assets/img/pexels"
-excluded: true
+title : Work Experience 
+permalink: /portfolio/
+subtitle: "" 
+feature-img: "assets/img/pexels/computer.jpeg"
 position: 2
 tags: [Page]
 ---
-
-<span style="font-size:24px; color: rgba(46, 89, 160,1);font-weight: bold; margin-bottom: 0px;">Master of Digital Text Analysis</span>
+## Selected Work Experience
+<span style="font-size:24px; color: rgba(46, 89, 160,1);font-weight: bold; margin-bottom: 0px;">Large Language Model Engineer (Intern)</span>
 <p style="font-size:19px; color: rgba(100, 100, 100,1); margin-top: -20px;margin-left:0px;">
-  University of Antwerp, Belgium, 09.2023 - Present.
-  </p>
+  Karel de Grote University of Applied Sciences & Arts, Antwerp, Belgium, 10.2024 - Present
+</p>
 <p style="color: rgba(100, 100, 100,1); font-size:20px; margin-top: 0px; margin-left: 0px;">
-  Thesis title: Enhancing LLM Evaluation: A Synthetic Data Approach to Context Understanding
+  Contributing to the Explainmed project to improve patient comprehension of medical letters.
 </p>
-<p style="font-size:20px; margin-top: 0px; margin-top: -10px; margin-left: 0px;color: rgba(100, 100, 100,1);">
-   Applying Large Language Models, NLP, Machine Learning, and Data Science to perform computational tasks on diverse textual and numerical content.
-</p>
-
-<p style="margin-bottom: 50px;"></p>
-
-<span style="font-size:24px; color: rgba(46, 89, 160,1);font-weight: bold; margin-bottom: 0px;">Ph.D. in Physics</span>
-<p style="color: rgba(100, 100, 100,1); font-size:19px; margin-top: -20px;margin-left:0px;">
-  University of Antwerp, Belgium, 03.2017 - 10.2021
-</p>
-<p style="color: rgba(100, 100, 100,1); font-size:20px;margin-top: 0px; margin-left: 0px;">
-  Thesis title: Charge Transport in Magnetic Topological Insulators
+<p style="font-size:20px; margin-top: -10px; margin-left: 0px; color: rgba(100, 100, 100,1);">
+  Using LLMs, ML classifiers, and clustering techniques to identify and simplify medical terms in patient prescriptions.
 </p>
 
 <p style="margin-bottom: 50px;"></p>
 
-<span style="font-size:24px; color: rgba(46, 89, 160,1);font-weight: bold; margin-bottom: 0px;">M.Sc. in Physics</span>
-<p style="color: rgba(100, 100, 100,1); font-size:19px; margin-top: -20px;margin-left:0px;">
-  Institute for Advanced Studies in Basic Science, Iran, 09.2011 04.2014
+<span style="font-size:24px; color: rgba(46, 89, 160,1);font-weight: bold; margin-bottom: 0px;">Postdoctoral Researcher</span>
+<p style="font-size:19px; color: rgba(100, 100, 100,1); margin-top: -20px;margin-left:0px;">
+  University of Antwerp, Antwerp, Belgium, 10.2021 - 06.2023
 </p>
-<p style="margin-top: 0px; color: rgba(100, 100, 100,1);margin-left: 0px;font-size:20px;">
-  Thesis title: Studying quantum interaction effect on the anisotropic properties of materials.
+<p style="color: rgba(100, 100, 100,1); font-size:20px; margin-top: 0px; margin-left: 0px;">
+  Python-based modeling and simulation of electrical resistivity at micron and nanometer scales.
+</p>
+<p style="font-size:20px; margin-top: -10px; margin-left: 0px;color: rgba(100, 100, 100,1);">
+  Computational simulation of quantum, statistical, electrical, and topological phenomena.
+</p>
+
+<p style="margin-bottom: 50px;"></p>
+
+<span style="font-size:24px; color: rgba(46, 89, 160,1);font-weight: bold; margin-bottom: 0px;">Doctoral Researcher</span>
+<p style="font-size:19px; color: rgba(100, 100, 100,1); margin-top: -20px;margin-left:0px;">
+  University of Antwerp, Antwerp, Belgium, 03.2017 - 10.2021
+</p>
+<p style="color: rgba(100, 100, 100,1); font-size:20px; margin-top: 0px; margin-left: 0px;">
+  Simulations of materials using VASP package on a High-Performance Computing (HPC) cluster.
+</p>
+<p style="font-size:20px; margin-top: -10px; margin-left: 0px;color: rgba(100, 100, 100,1);">
+  Conducting numeric and analytical computations utilizing the Wolfram Language and Python.
+</p>
+
+<p style="margin-bottom: 50px;"></p>
+
+<span style="font-size:24px; color: rgba(46, 89, 160,1);font-weight: bold; margin-bottom: 0px;">Visiting Researcher</span>
+<p style="font-size:19px; color: rgba(100, 100, 100,1); margin-top: -20px;margin-left:0px;">
+  Institute for Research in Fundamental Sciences, Iran, 02.2016 - 02.2017
+</p>
+<p style="color: rgba(100, 100, 100,1); font-size:20px; margin-top: 0px; margin-left: 0px;">
+  Numerical modeling of anomalous transverse electrical properties of magnetic materials.
+</p>
+
+<p style="margin-bottom: 50px;"></p>
+
+<span style="font-size:24px; color: rgba(46, 89, 160,1);font-weight: bold; margin-bottom: 0px;">Visiting Researcher</span>
+<p style="font-size:19px; color: rgba(100, 100, 100,1); margin-top: -20px;margin-left:0px;">
+  Uppsala University, Uppsala, Sweden, 10.2015 - 01.2016
+</p>
+<p style="color: rgba(100, 100, 100,1); font-size:20px; margin-top: 0px; margin-left: 0px;">
+  Nanoscale simulations of 2D materials using the Quantum ESPRESSO package.
 </p>
 
 <p style="margin-bottom: 50px;"></p>
 
 
-<span style="font-size:22px; color: rgba(46, 89, 160,1);font-weight: bold; margin-bottom: 0px;">B.Sc. in Physics</span>
-<p style="color: rgba(100, 100, 100,1); font-size:19px; margin-top: -20px;margin-left:0px;">
-    University of Tehran, Tehran, Iran, 09.2003 04.2008
-</p>
-<p style="margin-top: 0px;color: rgba(100, 100, 100,1);font-size:20px; margin-left: 0px;">
-  Thesis title: Thin film fabrication by Physical Vapor Deposition (PVD) techniques.
-</p>
+
+{% include portfolio.html %}
 
 
 
