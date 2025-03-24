@@ -7,7 +7,7 @@ feature-img: "assets/img/pexels/computer.jpeg"
 position: 3
 tags: [Page]
 ---
-## Selected Work Experience
+
 <span style="font-size:24px; color: rgba(46, 89, 160,1);font-weight: bold; margin-bottom: 0px;">Large Language Model Engineer (Intern)</span>
 <p style="font-size:19px; color: rgba(100, 100, 100,1); margin-top: -20px;margin-left:0px;">
   Karel de Grote University of Applied Sciences & Arts, Antwerp, Belgium, 10.2024 - Present
