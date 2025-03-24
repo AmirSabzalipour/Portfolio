@@ -2,7 +2,7 @@
 layout: page
 title: Education
 subtitle: 
-permalink: /gallery/
+permalink: /Education/
 gallery_path: "assets/img/pexels"
 excluded: true
 position: 4
