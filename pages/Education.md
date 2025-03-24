@@ -3,8 +3,8 @@ layout: page
 title: Education
 subtitle: 
 permalink: /Education/
+feature-img: "assets/img/pexels/computer.jpeg"
 gallery_path: "assets/img/pexels"
-excluded: true
 position: 4
 tags: [Page]
 ---
