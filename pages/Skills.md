@@ -1,7 +1,7 @@
 --- 
 layout: page
 title : Skills
-permalink: /portfolio/
+permalink: /Skills/
 subtitle: "" 
 feature-img: "assets/img/pexels/computer.jpeg"
 position: 5
