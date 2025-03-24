@@ -8,68 +8,79 @@ position: 2
 tags: [Page]
 ---
 
-<span style="font-size:24px; color: rgba(46, 89, 160,1);font-weight: bold; margin-bottom: 0px;">Large Language Model Engineer (Intern)</span>
+<span style="font-size:24px; color: rgba(46, 89, 160,1);font-weight: bold; margin-bottom: 0px;">Programming</span>
 <p style="font-size:19px; color: rgba(100, 100, 100,1); margin-top: -20px;margin-left:0px;">
-  Karel de Grote University of Applied Sciences & Arts, Antwerp, Belgium, 10.2024 - Present
-</p>
-<p style="color: rgba(100, 100, 100,1); font-size:20px; margin-top: 0px; margin-left: 0px;">
-  Contributing to the Explainmed project to improve patient comprehension of medical letters.
-</p>
-<p style="font-size:20px; margin-top: -10px; margin-left: 0px; color: rgba(100, 100, 100,1);">
-  Using LLMs, ML classifiers, and clustering techniques to identify and simplify medical terms in patient prescriptions.
+  Python, C, Mathematica, SQL.
 </p>
 
 <p style="margin-bottom: 50px;"></p>
 
-<span style="font-size:24px; color: rgba(46, 89, 160,1);font-weight: bold; margin-bottom: 0px;">Postdoctoral Researcher</span>
+<span style="font-size:24px; color: rgba(46, 89, 160,1);font-weight: bold; margin-bottom: 0px;">Data Science</span>
 <p style="font-size:19px; color: rgba(100, 100, 100,1); margin-top: -20px;margin-left:0px;">
-  University of Antwerp, Antwerp, Belgium, 10.2021 - 06.2023
+  Exploratory data analysis, feature engineering, statistical analysis, visualization, pipeline development, post-processing, and reporting the results.
 </p>
 <p style="color: rgba(100, 100, 100,1); font-size:20px; margin-top: 0px; margin-left: 0px;">
-  Python-based modeling and simulation of electrical resistivity at micron and nanometer scales.
-</p>
-<p style="font-size:20px; margin-top: -10px; margin-left: 0px;color: rgba(100, 100, 100,1);">
-  Computational simulation of quantum, statistical, electrical, and topological phenomena.
+  Libraries: NumPy, Pandas, Matplotlib, Spark, PyTorch, Seaborn, etc.
 </p>
 
 <p style="margin-bottom: 50px;"></p>
 
-<span style="font-size:24px; color: rgba(46, 89, 160,1);font-weight: bold; margin-bottom: 0px;">Doctoral Researcher</span>
+<span style="font-size:24px; color: rgba(46, 89, 160,1);font-weight: bold; margin-bottom: 0px;">Machine Learning</span>
 <p style="font-size:19px; color: rgba(100, 100, 100,1); margin-top: -20px;margin-left:0px;">
-  University of Antwerp, Antwerp, Belgium, 03.2017 - 10.2021
+  Feature engineering, model training, evaluation, deployment, and monitoring.
 </p>
 <p style="color: rgba(100, 100, 100,1); font-size:20px; margin-top: 0px; margin-left: 0px;">
-  Simulations of materials using VASP package on a High-Performance Computing (HPC) cluster.
-</p>
-<p style="font-size:20px; margin-top: -10px; margin-left: 0px;color: rgba(100, 100, 100,1);">
-  Conducting numeric and analytical computations utilizing the Wolfram Language and Python.
+  Models: Regression, decision trees, SVM, KNN, ensemble methods, neural networks.
 </p>
 
 <p style="margin-bottom: 50px;"></p>
 
-<span style="font-size:24px; color: rgba(46, 89, 160,1);font-weight: bold; margin-bottom: 0px;">Visiting Researcher</span>
+<span style="font-size:24px; color: rgba(46, 89, 160,1);font-weight: bold; margin-bottom: 0px;">NLP</span>
 <p style="font-size:19px; color: rgba(100, 100, 100,1); margin-top: -20px;margin-left:0px;">
-  Institute for Research in Fundamental Sciences, Iran, 02.2016 - 02.2017
+  Text mining and preprocessing, sentiment analysis, topic modeling, classification.
 </p>
 <p style="color: rgba(100, 100, 100,1); font-size:20px; margin-top: 0px; margin-left: 0px;">
-  Numerical modeling of anomalous transverse electrical properties of magnetic materials.
+  Tools: Beautiful Soup, NLTK, Regex, spaCy, Gensim, Mallet, TF-IDF, Stylo, BookNLP.
 </p>
 
 <p style="margin-bottom: 50px;"></p>
 
-<span style="font-size:24px; color: rgba(46, 89, 160,1);font-weight: bold; margin-bottom: 0px;">Visiting Researcher</span>
+<span style="font-size:24px; color: rgba(46, 89, 160,1);font-weight: bold; margin-bottom: 0px;">LLMs</span>
 <p style="font-size:19px; color: rgba(100, 100, 100,1); margin-top: -20px;margin-left:0px;">
-  Uppsala University, Uppsala, Sweden, 10.2015 - 01.2016
-</p>
-<p style="color: rgba(100, 100, 100,1); font-size:20px; margin-top: 0px; margin-left: 0px;">
-  Nanoscale simulations of 2D materials using the Quantum ESPRESSO package.
+  Applying large language models (LLMs) for text generation, summarization, question answering, prompt engineering, RAG, few-shot learning, and perplexity evaluation.
 </p>
 
 <p style="margin-bottom: 50px;"></p>
 
+<span style="font-size:24px; color: rgba(46, 89, 160,1);font-weight: bold; margin-bottom: 0px;">Optimization</span>
+<p style="font-size:19px; color: rgba(100, 100, 100,1); margin-top: -20px;margin-left:0px;">
+  Optimizing linear and non-linear mathematical models to address business challenges.
+</p>
+<p style="color: rgba(100, 100, 100,1); font-size:20px; margin-top: 0px; margin-left: 0px;">
+  Task: Cost minimization, profit maximization, resource allocation, operational improvement.
+</p>
+<p style="color: rgba(100, 100, 100,1); font-size:20px; margin-top: 0px; margin-left: 0px;">
+  Tools: Pyomo modeling language with CPLEX, Gurobi as solvers.
+</p>
 
+<p style="margin-bottom: 50px;"></p>
 
-{% include portfolio.html %}
+<span style="font-size:24px; color: rgba(46, 89, 160,1);font-weight: bold; margin-bottom: 0px;">HPC</span>
+<p style="font-size:19px; color: rgba(100, 100, 100,1); margin-top: -20px;margin-left:0px;">
+  Advanced parallel computation using clusters for LLMs and scientific simulations.
+</p>
+<p style="color: rgba(100, 100, 100,1); font-size:20px; margin-top: 0px; margin-left: 0px;">
+  LLM deployment on HPC with Docker and Ray for scalable training and inference. Atomic-scale material modeling with VASP and Quantum ESPRESSO.
+</p>
+
+<p style="margin-bottom: 50px;"></p>
+
+<span style="font-size:24px; color: rgba(46, 89, 160,1);font-weight: bold; margin-bottom: 0px;">Numeric Computation</span>
+<p style="font-size:19px; color: rgba(100, 100, 100,1); margin-top: -20px;margin-left:0px;">
+  Monte Carlo simulations, finite difference methods, numerical integration, and molecular dynamics simulation.
+</p>
+
+<p style="margin-bottom: 50px;"></p>
 
 
 
