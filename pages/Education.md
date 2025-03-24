@@ -1,7 +1,7 @@
 --- 
 layout: page
 title : Education 
-permalink: /Portfolio/
+permalink: /portfolio/
 subtitle: "" 
 feature-img: "assets/img/pexels/education.jpeg"
 position: 4
