@@ -46,6 +46,24 @@ collections:
     output: true
     permalink: /:collection/:name
 
+
+    # Existing pagination settings
+paginate: 5
+paginate_path: "/page:num/"
+
+# Add these new settings
+defaults:
+  - scope:
+      path: "index.html"
+      type: "pages"
+    values:
+      layout: "introduction"
+  - scope:
+      path: "_posts"
+      type: "posts"
+    values:
+      layout: "post"
+
 # BUILD SETTINGS
 sass:
   style: compressed
