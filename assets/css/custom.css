@@ -1,6 +1,7 @@
-/* Disable hover effect for the first post title */
-.post:nth-of-type(1) .post-link {
+/* Disable hover effect for the "Dark Mode" post link */
+a[aria-label="Dark Mode"]:hover {
   pointer-events: none;
   color: inherit;
   text-decoration: none;
 }
+
