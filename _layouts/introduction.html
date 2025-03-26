@@ -1,0 +1,24 @@
+---
+layout: default
+---
+<div class="introduction-page">
+  <h1>Welcome to My Site</h1>
+  <div class="intro-content">
+    {{ content }}
+  </div>
+  
+  <div class="recent-posts">
+    <h2>Latest Posts</h2>
+    {% for post in site.posts limit:3 %}
+      <article class="post-preview">
+        <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+        <time>{{ post.date | date: "%B %d, %Y" }}</time>
+        <div class="excerpt">{{ post.excerpt }}</div>
+      </article>
+    {% endfor %}
+  </div>
+  
+  <div class="pagination-links">
+    <a href="/page2/">View More Posts</a>
+  </div>
+</div>
