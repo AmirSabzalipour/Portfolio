@@ -2,5 +2,10 @@
 layout: home
 ---
 
+Welcome to my blog! This is my introduction page.
 
-how are you doing
+{% if site.posts.size > 3 %}
+<div class="view-more">
+  <a href="/page2/">View More Posts</a>
+</div>
+{% endif %}
