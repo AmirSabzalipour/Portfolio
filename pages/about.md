@@ -3,11 +3,11 @@ layout: page
 title: About
 permalink: /about/
 position: 1
-feature-img: "assets/img/pexels/travel2.JPG"
+feature-img: "assets/img/pexels/travel.JPG"
 tags: [Page]
 ---
 
-<img src="./assets/img/pexels/travel2.JPG" alt="Image Description" style="width: 200px;">
+<img src="./amir.JPG" alt="Image Description" style="width: 200px;">
 Data science, large language modeling (LLM), natural language processing (NLP), and machine learning researcher with a strong foundation in mathematics, computational physics, numerical optimization,
 and large-scale data analysis. My work spans interdisciplinary projects that integrate computational,
 experimental, and theoretical approaches to solve complex challenges in scientific research, industry, and
