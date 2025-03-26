@@ -1,5 +1,5 @@
 /* Disable hover effect for the "Dark Mode" post link */
-a[aria-label="Dark Mode"]:hover {
+a[aria-label="Project Progress, What I've Accomplished So Far"]:hover {
   pointer-events: none;
   color: inherit;
   text-decoration: none;
