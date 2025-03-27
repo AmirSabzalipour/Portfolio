@@ -3,7 +3,7 @@ layout: post
 title: "EXPLAINMED: Understandable care for all"
 color: rgb(250, 50, 50)
 feature-img: "assets/img/feature-img/circuit.jpeg"
-thumbnail: "assets/img/thumbnails/feature-img/circuit.jpeg"
+thumbnail: "assets/img/thumbnails/feature-img/explain2.jpeg"
 tags: [Highlight, Markdown]
 ---
 
