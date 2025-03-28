@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 position: 1
 feature-img: "assets/img/pexels/travel2.JPG"
-tags: [Page]
+
 ---
 
 Data science, large language modeling (LLM), natural language processing (NLP), and machine learning researcher with a strong foundation in mathematics, computational physics, numerical optimization,
@@ -14,6 +14,6 @@ diverse fields—including healthcare, materials science, digital humanities, an
 analytical and driven by innovation, I excel at distilling complex concepts into clear insights and am
 committed to continuous learning and problem-solving.
 
-![Alt text](/assets/img/amir.jpg)
+![Amir](https://yourwebsite.com/assets/img/amir.jpg)
 
-[Continue with your existing text...]
+
