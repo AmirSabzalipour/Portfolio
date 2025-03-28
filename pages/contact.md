@@ -47,7 +47,7 @@ tags: [Page]
 
 <div class="contact-item youtube" style="display: flex; align-items: center; gap: 0.75rem; color: #333; text-decoration: none;">
     <i class="fab fa-youtube" style="font-size: 1.5rem; color: #FF0000;"></i>
-    <a href="https://www.youtube.com/yourchannel" 
+    <a href="https://www.youtube.com/watch?v=diynOHbDYFs&t=26s&ab_channel=Seeingisbelieving" 
        target="_blank" 
        rel="noopener noreferrer" 
        style="color: inherit; text-decoration: none; transition: color 0.2s ease;">
