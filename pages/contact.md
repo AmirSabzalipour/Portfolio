@@ -10,7 +10,7 @@ tags: [Page]
 <div class="contact-links" style="display: flex; flex-wrap: wrap; gap: 2rem; padding: 2rem; background: #f8f9fa; border-radius: 8px; margin: 2rem 0;">
     <!-- Email -->
     <div class="contact-item email" style="display: flex; align-items: center; gap: 0.75rem; color: #333; text-decoration: none;">
-        <span class="icon" style="font-size: 1.5rem;">📧</span>
+        <span class="icon" style="font-size: 3rem;">📧</span>
         <a href="mailto:your.email@example.com" rel="nofollow" style="color: inherit; text-decoration: none; transition: color 0.2s ease;">
             your.email@example.com
         </a>
