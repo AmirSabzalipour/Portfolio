@@ -23,7 +23,7 @@ position: 5
  <div class="contact-item phone" style="display: flex; align-items: center; gap: 0.75rem; color: #333; text-decoration: none;">
         <span class="icon" style="font-size: 1.5rem;">📱</span>
         <a href="tel:+1234567890" rel="nofollow" style="color: inherit; text-decoration: none; transition: color 0.2s ease;">
-            + (32) 496 777 637
+         +(32)496 777 637
         </a>
     </div>
 
