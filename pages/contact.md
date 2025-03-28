@@ -41,12 +41,18 @@ tags: [Page]
     </div>
 
     <!-- YouTube -->
-    <div class="contact-item youtube" style="display: flex; align-items: center; gap: 0.75rem; color: #333; text-decoration: none;">
-        <span class="icon" style="font-size: 1.5rem;">📹</span>
-        <a href="https://www.youtube.com/yourchannel" target="_blank" rel="noopener noreferrer" style="color: inherit; text-decoration: none; transition: color 0.2s ease;">
-            YouTube Channel
-        </a>
-    </div>
+  <!-- Add Font Awesome CDN -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+
+<div class="contact-item youtube" style="display: flex; align-items: center; gap: 0.75rem; color: #333; text-decoration: none;">
+    <i class="fab fa-youtube" style="font-size: 1.5rem;"></i>
+    <a href="https://www.youtube.com/yourchannel" 
+       target="_blank" 
+       rel="noopener noreferrer" 
+       style="color: inherit; text-decoration: none; transition: color 0.2s ease;">
+        YouTube Channel
+    </a>
+</div>
 
 
  <div class="contact-item Linkedin" style="display: flex; align-items: center; gap: 0.75rem; color: #333; text-decoration: none;">
