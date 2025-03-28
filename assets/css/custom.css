@@ -5,3 +5,18 @@ a[aria-label="Project Progress, What I've Accomplished So Far"]:hover {
   text-decoration: none;
 }
 
+
+/* Ensure that the title is clickable */
+.post-title a {
+    color: inherit; /* Inherit the default text color */
+    text-decoration: none; /* Remove underline */
+    transition: color 0.3s ease, transform 0.3s ease; /* Smooth transition */
+}
+
+/* Hover effect for the clickable title */
+.post-title a:hover {
+    color: #007bff; /* Change color to blue or your preferred color */
+    text-decoration: underline; /* Add underline on hover */
+    transform: translateY(-3px); /* Slight upward movement on hover */
+}
+
