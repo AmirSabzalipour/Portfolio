@@ -49,11 +49,10 @@ tags: [Page]
     </div>
 
 
- <div class="contact-item linkedin" style="display: flex; align-items: center; gap: 0.75rem; color: #333; text-decoration: none;">
+ <div class="contact-item Linkedin" style="display: flex; align-items: center; gap: 0.75rem; color: #333; text-decoration: none;">
         <span class="icon" style="font-size: 1.5rem;">📹</span>
-        <a href="https://www.youtube.com/yourchannel" target="_blank" rel="noopener noreferrer" style="color: inherit; text-decoration: none; transition: color 0.2s ease;">
-            YouTube Channel
-        </a>
+        <a href="https://www.linkedin.com/in/amir-sabzalipour-38464252/" target="_blank" rel="noopener noreferrer" style="color: inherit; text-decoration: none; transition: color 0.2s ease;">
+             Linkedin        </a>
     </div>
 
 
