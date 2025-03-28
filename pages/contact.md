@@ -1,8 +1,8 @@
 ---
-layout: archive
+layout: page
 title: "Contact"
-permalink: /Contact/
-excluded: true
-icon: "fa-afa-contact"
+permalink: /contact/
+excluded: false
+icon: "fa fa-contact"
 position: 6
 ---
