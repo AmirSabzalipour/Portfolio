@@ -5,7 +5,6 @@ permalink: /skills/
 subtitle: "" 
 feature-img: "assets/img/pexels/travel2.JPG"
 position: 2
-tags: [Page]
 ---
 
 <span style="font-size:24px; color: rgba(46, 89, 160,1);font-weight: bold; margin-bottom: 0px;">Programming</span>
