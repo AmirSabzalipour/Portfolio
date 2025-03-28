@@ -14,6 +14,6 @@ diverse fields—including healthcare, materials science, digital humanities, an
 analytical and driven by innovation, I excel at distilling complex concepts into clear insights and am
 committed to continuous learning and problem-solving.
 
-![Your image description here](/assets/img/amir.jpg)
+![Alt text](/assets/img/amir.jpg)
 
 [Continue with your existing text...]
