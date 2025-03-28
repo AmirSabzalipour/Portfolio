@@ -42,10 +42,11 @@ tags: [Page]
 
     <!-- YouTube -->
   <!-- Add Font Awesome CDN -->
+<!-- Add Font Awesome CDN -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
 
 <div class="contact-item youtube" style="display: flex; align-items: center; gap: 0.75rem; color: #333; text-decoration: none;">
-    <i class="fab fa-youtube" style="font-size: 1.5rem;"></i>
+    <i class="fab fa-youtube" style="font-size: 1.5rem; color: #FF0000;"></i>
     <a href="https://www.youtube.com/yourchannel" 
        target="_blank" 
        rel="noopener noreferrer" 
