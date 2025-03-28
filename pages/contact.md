@@ -38,13 +38,9 @@ tags: [Page]
         <a href="https://scholar.google.com/citations?user=pPUw_XAAAAAJ&hl=en&oi=ao" target="_blank" rel="noopener noreferrer" style="color: inherit; text-decoration: none; transition: color 0.2s ease;">
             Google Scholar
         </a>
-    </div>
+</div>
 
-    <!-- YouTube -->
-  <!-- Add Font Awesome CDN -->
-<!-- Add Font Awesome CDN -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
-
 <div class="contact-item youtube" style="display: flex; align-items: center; gap: 0.75rem; color: #333; text-decoration: none;">
     <i class="fab fa-youtube" style="font-size: 1.5rem; color: #FF0000;"></i>
     <a href="https://www.youtube.com/watch?v=diynOHbDYFs&t=26s&ab_channel=Seeingisbelieving" 
@@ -54,15 +50,17 @@ tags: [Page]
         YouTube Channel
     </a>
 </div>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
 
- <div class="contact-item Linkedin" style="display: flex; align-items: center; gap: 0.75rem; color: #333; text-decoration: none;">
-        <span class="icon" style="font-size: 1.5rem;">📹</span>
-        <a href="https://www.linkedin.com/in/amir-sabzalipour-38464252/" target="_blank" rel="noopener noreferrer" style="color: inherit; text-decoration: none; transition: color 0.2s ease;">
-     Linkedin     
- </a>
-    </div>
-
-    
+<div class="contact-item Linkedin" style="display: flex; align-items: center; gap: 0.75rem; color: #333; text-decoration: none;">
+    <i class="fab fa-linkedin" style="font-size: 1.5rem; color: #0077B5;"></i>
+    <a href="https://www.linkedin.com/in/amir-sabzalipour-38464252/" 
+       target="_blank" 
+       rel="noopener noreferrer" 
+       style="color: inherit; text-decoration: none; transition: color 0.2s ease;">
+        Linkedin
+    </a>
+</div>
 </div>
 
 
