@@ -1,8 +1,7 @@
 ---
 layout: archive
-title: "Blog Archive"
-permalink: /archive/
-hide: true
+title: "Contact"
+permalink: /Contact/
 excluded: true
 icon: "fa-archive"
 position: 6
