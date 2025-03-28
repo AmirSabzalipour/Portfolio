@@ -5,7 +5,6 @@ permalink: /Contact/
 subtitle: "" 
 feature-img: "assets/img/pexels/travel2.JPG"
 position: 5
-tags: [Page]
 ---
 <div class="contact-links" style="display: flex; flex-wrap: wrap; gap: 2rem; padding: 2rem; background: #f8f9fa; border-radius: 8px; margin: 2rem 0;">
     <!-- Email -->
