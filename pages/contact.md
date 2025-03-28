@@ -28,4 +28,24 @@ tags: [Page]
     <!-- GitHub -->
     <div class="contact-item github">
         <span class="icon">💻</span>
-        <a href="https://github.com/yourusername" target
+        <a href="https://github.com/yourusername" target="_blank" rel="noopener noreferrer">
+            GitHub Profile
+        </a>
+    </div>
+
+    <!-- Google Scholar -->
+    <div class="contact-item scholar">
+        <span class="icon">🎓</span>
+        <a href="https://scholar.google.com/citations?user=your_scholar_id" target="_blank" rel="noopener noreferrer">
+            Google Scholar
+        </a>
+    </div>
+
+    <!-- YouTube -->
+    <div class="contact-item youtube">
+        <span class="icon">📹</span>
+        <a href="https://www.youtube.com/yourchannel" target="_blank" rel="noopener noreferrer">
+            YouTube Channel
+        </a>
+    </div>
+</div>
