@@ -4,5 +4,5 @@ title: "Contact"
 permalink: /contact/
 excluded: false
 icon: "fa fa-contact"
-position: 6
+position: 5
 ---
