@@ -1,8 +1,8 @@
----
 layout: page
-title: "Contact"
-permalink: /contact/
-excluded: false
-icon: "fa fa-contact"
+title : Contact
+permalink: /Contact/
+subtitle: "" 
+feature-img: "assets/img/pexels/travel2.JPG"
 position: 5
+tags: [Page]
 ---
