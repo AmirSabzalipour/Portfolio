@@ -1,4 +1,3 @@
----
 layout: page
 title : Contact
 permalink: /Contact/
@@ -11,7 +10,7 @@ tags: [Page]
     <!-- Email -->
     <div class="contact-item email" style="display: flex; align-items: center; gap: 0.75rem; color: #333; text-decoration: none;">
         <span class="icon" style="font-size: 1.6rem;">📧</span>
-        <a href="mailto:your.email@example.com" rel="nofollow" style="color: inherit; text-decoration: none; transition: color 0.2s ease;">
+        <a href="mailto:am.sabzalipour@gmail.com" rel="nofollow" style="color: inherit; text-decoration: none; transition: color 0.2s ease;">
             am.sabzalipour@gmail.com
         </a>
     </div>
@@ -27,8 +26,8 @@ tags: [Page]
     <!-- GitHub -->
     <div class="contact-item github" style="display: flex; align-items: center; gap: 0.75rem; color: #333; text-decoration: none;">
         <span class="icon" style="font-size: 1.5rem;">💻</span>
-        <a href="https://github.com/yourusername" target="_blank" rel="noopener noreferrer" style="color: inherit; text-decoration: none; transition: color 0.2s ease;">
-           https://github.com/AmirSabzalipour
+        <a href="https://github.com/AmirSabzalipour" target="_blank" rel="noopener noreferrer" style="color: inherit; text-decoration: none; transition: color 0.2s ease;">
+            GitHub Profile
         </a>
     </div>
 
