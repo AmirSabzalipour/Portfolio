@@ -32,12 +32,17 @@ tags: [Page]
         </a>
     </div>
 
-    <!-- Google Scholar -->
+<!-- Add Font Awesome CDN -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+
 <div class="contact-item scholar" style="display: flex; align-items: center; gap: 0.75rem; color: #333; text-decoration: none;">
-        <span class="icon" style="font-size: 1.5rem;">🎓</span>
-        <a href="https://scholar.google.com/citations?user=pPUw_XAAAAAJ&hl=en&oi=ao" target="_blank" rel="noopener noreferrer" style="color: inherit; text-decoration: none; transition: color 0.2s ease;">
-            Google Scholar
-        </a>
+    <i class="ai ai-google-scholar" style="font-size: 1.5rem; color: #4285F4;"></i>
+    <a href="https://scholar.google.com/citations?user=pPUw_XAAAAAJ&hl=en&oi=ao" 
+       target="_blank" 
+       rel="noopener noreferrer" 
+       style="color: inherit; text-decoration: none; transition: color 0.2s ease;">
+        Google Scholar
+    </a>
 </div>
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
