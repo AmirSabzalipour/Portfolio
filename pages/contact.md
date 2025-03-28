@@ -16,8 +16,8 @@ tags: [Page]
         </a>
     </div>
 
-    <!-- Phone -->
-    <div class="contact-item phone" style="display: flex; align-items: center; gap: 0.75rem; color: #333; text-decoration: none;">
+<!-- Phone -->
+ <div class="contact-item phone" style="display: flex; align-items: center; gap: 0.75rem; color: #333; text-decoration: none;">
         <span class="icon" style="font-size: 1.5rem;">📱</span>
         <a href="tel:+1234567890" rel="nofollow" style="color: inherit; text-decoration: none; transition: color 0.2s ease;">
             + (32) 496 777 637
@@ -25,7 +25,7 @@ tags: [Page]
     </div>
 
     <!-- GitHub -->
-    <div class="contact-item github" style="display: flex; align-items: center; gap: 0.75rem; color: #333; text-decoration: none;">
+<div class="contact-item github" style="display: flex; align-items: center; gap: 0.75rem; color: #333; text-decoration: none;">
         <span class="icon" style="font-size: 1.5rem;">💻</span>
         <a href="https://github.com/AmirSabzalipour" target="_blank" rel="noopener noreferrer" style="color: inherit; text-decoration: none; transition: color 0.2s ease;">
             GitHub Profile
@@ -33,7 +33,7 @@ tags: [Page]
     </div>
 
     <!-- Google Scholar -->
-    <div class="contact-item scholar" style="display: flex; align-items: center; gap: 0.75rem; color: #333; text-decoration: none;">
+<div class="contact-item scholar" style="display: flex; align-items: center; gap: 0.75rem; color: #333; text-decoration: none;">
         <span class="icon" style="font-size: 1.5rem;">🎓</span>
         <a href="https://scholar.google.com/citations?user=pPUw_XAAAAAJ&hl=en&oi=ao" target="_blank" rel="noopener noreferrer" style="color: inherit; text-decoration: none; transition: color 0.2s ease;">
             Google Scholar
@@ -55,24 +55,12 @@ tags: [Page]
     </a>
 </div>
 
-
  <div class="contact-item Linkedin" style="display: flex; align-items: center; gap: 0.75rem; color: #333; text-decoration: none;">
         <span class="icon" style="font-size: 1.5rem;">📹</span>
         <a href="https://www.linkedin.com/in/amir-sabzalipour-38464252/" target="_blank" rel="noopener noreferrer" style="color: inherit; text-decoration: none; transition: color 0.2s ease;">
-             Linkedin        </a>
+     Linkedin     
+ </a>
     </div>
-
-
-
-
-
-
-
-
-
-
-
-
 
     
 </div>
