@@ -35,7 +35,7 @@ tags: [Page]
     <!-- Google Scholar -->
     <div class="contact-item scholar" style="display: flex; align-items: center; gap: 0.75rem; color: #333; text-decoration: none;">
         <span class="icon" style="font-size: 1.5rem;">🎓</span>
-        <a href="https://scholar.google.com/citations?user=your_scholar_id" target="_blank" rel="noopener noreferrer" style="color: inherit; text-decoration: none; transition: color 0.2s ease;">
+        <a href="https://scholar.google.com/citations?user=pPUw_XAAAAAJ&hl=en&oi=ao" target="_blank" rel="noopener noreferrer" style="color: inherit; text-decoration: none; transition: color 0.2s ease;">
             Google Scholar
         </a>
     </div>
@@ -47,4 +47,34 @@ tags: [Page]
             YouTube Channel
         </a>
     </div>
+
+
+ <div class="contact-item linkedin" style="display: flex; align-items: center; gap: 0.75rem; color: #333; text-decoration: none;">
+        <span class="icon" style="font-size: 1.5rem;">📹</span>
+        <a href="https://www.youtube.com/yourchannel" target="_blank" rel="noopener noreferrer" style="color: inherit; text-decoration: none; transition: color 0.2s ease;">
+            YouTube Channel
+        </a>
+    </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
 </div>
+
+
+
+
+
+
+
+
