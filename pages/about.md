@@ -10,57 +10,75 @@ feature-img: "assets/img/pexels/travel2.JPG"
 
 <div class="container mt-4">
   <div class="row justify-content-center">
-    <div class="col-lg-8">
-      <div class="d-flex justify-content-between mb-5">
-        <figure class="text-center">
-          <img src="mary-shelley.jpg" 
-               alt="Engraved portrait of Mary Shelley" 
-               class="img-fluid rounded shadow"
-               loading="lazy"
-               width="300"
-               height="400">
-          <figcaption class="mt-2 small text-muted">Mary Shelley (1797-1851)</figcaption>
-        </figure>
-        <figure class="text-center">
-          <img src="percy-shelley.jpg"
-               alt="Lithograph portrait of Percy Bysshe Shelley" 
-               class="img-fluid rounded shadow"
-               loading="lazy"
-               width="300"
-               height="400">
-          <figcaption class="mt-2 small text-muted">Percy Bysshe Shelley (1792-1822)</figcaption>
-        </figure>
-      </div>
+    <div class="col-lg-8 text-center">
+      <figure class="mb-5">
+        <img src="/assets/img/amir.jpg" 
+             alt="Amir, Machine Learning Researcher" 
+             class="img-fluid rounded-circle shadow-lg"
+             style="max-width: 300px; border: 3px solid #f8f9fa;">
+        <figcaption class="mt-3 h5">
+          Amir<br>
+          <small class="text-muted d-block mt-1">AI Researcher & LLM Specialist</small>
+        </figcaption>
+      </figure>
     </div>
   </div>
 
   <div class="row justify-content-center">
     <div class="col-lg-8">
       <div class="professional-profile">
-        <p class="lead">
-          Machine learning researcher specializing in LLMs and NLP, leveraging a <strong>Ph.D. in Physics</strong> and <strong>postdoctoral experience</strong> to advance AI capabilities through rigorous scientific approaches.
+        <p class="lead mb-4">
+          Machine learning researcher specializing in Large Language Models (LLMs) and Natural Language Processing (NLP), combining <strong>Ph.D.-level physics expertise</strong> with <strong>AI engineering</strong> to develop cutting-edge language technologies.
         </p>
 
         <div class="mb-4">
-          <h3 class="h5">Core Expertise</h3>
+          <h3 class="h4 mb-3">Technical Expertise</h3>
           <ul class="list-unstyled">
-            <li class="mb-3">» <strong>LLM Training & Optimization</strong>: HPC cluster utilization for large-scale model fine-tuning</li>
-            <li class="mb-3">» <strong>Distributed Systems</strong>: Scalable deployment with Ray/Docker/vLLM</li>
-            <li class="mb-3">» <strong>Architecture Design</strong>: Transformer-based model development &amp; hyperparameter optimization</li>
-            <li class="mb-3">» <strong>AI Engineering</strong>: Custom training pipelines &amp; model interpretability research</li>
+            <li class="mb-3 d-flex align-items-center">
+              <span class="me-2">▷</span>
+              <strong>LLM Development</strong>: Full-cycle training & fine-tuning of transformer models
+            </li>
+            <li class="mb-3 d-flex align-items-center">
+              <span class="me-2">▷</span>
+              <strong>High-Performance Computing</strong>: Distributed training on HPC clusters
+            </li>
+            <li class="mb-3 d-flex align-items-center">
+              <span class="me-2">▷</span>
+              <strong>Deployment Architecture</strong>: Production-grade systems with Docker/Ray/vLLM
+            </li>
+            <li class="mb-3 d-flex align-items-center">
+              <span class="me-2">▷</span>
+              <strong>Model Optimization</strong>: Hyperparameter tuning & quantization techniques
+            </li>
           </ul>
         </div>
 
-        <div class="innovation-focus">
-          <h3 class="h5">Technical Leadership</h3>
-          <p>
-            Bridging <strong>scientific rigor</strong> with <strong>production-grade AI development</strong>, I focus on:
-          </p>
-          <ul>
-            <li>Enhancing contextual reasoning through advanced prompt engineering</li>
-            <li>Optimizing model performance for real-world applications</li>
-            <li>Developing evaluation frameworks for LLM capabilities</li>
-            <li>Implementing efficient distributed training strategies</li>
+        <div class="innovation-section mt-4">
+          <h3 class="h4 mb-3">Research Focus</h3>
+          <div class="d-grid gap-3">
+            <div class="p-3 bg-light rounded">
+              <h4 class="h6 mb-2">Language Model Advancement</h4>
+              <p class="mb-0">
+                Developing novel architectures for enhanced <strong>contextual reasoning</strong> and <strong>long-range dependencies</strong> in text generation
+              </p>
+            </div>
+            
+            <div class="p-3 bg-light rounded">
+              <h4 class="h6 mb-2">Efficient AI Systems</h4>
+              <p class="mb-0">
+                Creating optimized training pipelines for <strong>faster iteration cycles</strong> and <strong>reduced computational costs</strong>
+              </p>
+            </div>
+          </div>
+        </div>
+
+        <div class="mt-4">
+          <h3 class="h4 mb-3">Methodology</h3>
+          <ul class="list-inline">
+            <li class="list-inline-item badge bg-primary me-1 mb-1">Scientific Rigor</li>
+            <li class="list-inline-item badge bg-success me-1 mb-1">Empirical Validation</li>
+            <li class="list-inline-item badge bg-info me-1 mb-1">Scalable Design</li>
+            <li class="list-inline-item badge bg-dark me-1 mb-1">Ethical AI</li>
           </ul>
         </div>
       </div>
@@ -68,3 +86,14 @@ feature-img: "assets/img/pexels/travel2.JPG"
   </div>
 </div>
 
+<style>
+  .professional-profile ul {
+    line-height: 1.7;
+  }
+  .shadow-lg {
+    box-shadow: 0 1rem 3rem rgba(0,0,0,.175)!important;
+  }
+  .rounded {
+    border-radius: 0.375rem!important;
+  }
+</style>
