@@ -1,5 +1,5 @@
 /* Disable hover effect for the "Dark Mode" post link */
-a[aria-label="Welcome to my page"]:hover {
+a[aria-label="Welcome"]:hover {
   pointer-events: none;
   color: inherit;
   text-decoration: none;
