@@ -70,15 +70,7 @@ feature-img: "assets/img/pexels/travel2.JPG"
           </div>
         </div>
 
-        <div class="mt-4">
-          <h3 class="h4 mb-3">Methodology</h3>
-          <ul class="list-inline">
-            <li class="list-inline-item badge bg-primary me-1 mb-1">Scientific Rigor</li>
-            <li class="list-inline-item badge bg-success me-1 mb-1">Empirical Validation</li>
-            <li class="list-inline-item badge bg-info me-1 mb-1">Scalable Design</li>
-            <li class="list-inline-item badge bg-dark me-1 mb-1">Ethical AI</li>
-          </ul>
-        </div>
+              </div>
       </div>
     </div>
   </div>
