@@ -74,7 +74,7 @@ feature-img: "assets/img/pexels/travel2.JPG"
       </div>
     </div>
   </div>
-</div>
+
 
 <style>
   .professional-profile ul {
