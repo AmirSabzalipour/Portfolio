@@ -27,8 +27,7 @@ I am a machine learning researcher specializing in large language models (LLMs) 
     <div class="col-md-9 ps-md-4"> <!-- Add left padding on desktop -->
       <!-- Your content here -->
       <p style="text-align: justify; line-height: 1.8;">
-        I am a machine learning researcher specializing...
-      </p>
+             </p>
     </div>
   </div>
 </div>
