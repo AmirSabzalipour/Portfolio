@@ -2,12 +2,7 @@
     <p class="text">
         {{ site.footer_text | default: "" }}
     </p>
-    <div class="footer-icons">
-        <ul>
-            {% include social/icons.liquid %}
-        </ul>
-    </div>
-    {% if site.mermaid %}
+      {% if site.mermaid %}
         <script type="module">
           mermaid.initialize({ startOnLoad: false, theme: "default" });
           mermaid.run({ nodes: [...document.querySelectorAll('.language-mermaid'), ...document.querySelectorAll('.mermaid')] });
