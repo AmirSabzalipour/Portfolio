@@ -22,58 +22,26 @@ feature-img: "assets/img/pexels/travel2.JPG"
     </div>
   </div>
 
-  <div class="row justify-content-center">
-    <div class="col-lg-8">
-      <div class="professional-profile">
-        <p class="lead mb-4">
-          Machine learning researcher specializing in Large Language Models (LLMs) and Natural Language Processing (NLP), combining <strong>Ph.D.-level physics expertise</strong> with <strong>AI engineering</strong> to develop cutting-edge language technologies.
-        </p>
+<p style="line-height: 1.8;">
+I am a machine learning researcher specializing in large language models (LLMs) and natural language processing (NLP), with a <strong>Ph.D. in Physics</strong> and <strong>postdoctoral research experience</strong>. My current focus is developing <strong>EXPLAINMED</strong> - an AI system that transforms complex Dutch medical reports into patient-friendly language using <strong>LLM-powered terminology classification</strong> and <strong>context-aware translation pipelines</strong>. The system employs <strong>ensemble learning models</strong> achieving 97% accuracy in technical content detection, significantly improving health literacy for cardiac patients through automated jargon simplification.
+</p>  
 
-        <div class="mb-4">
-          <h3 class="h4 mb-3">Technical Expertise</h3>
-          <ul class="list-unstyled">
-            <li class="mb-3 d-flex align-items-center">
-              <span class="me-2">▷</span>
-              <strong>LLM Development</strong>: Full-cycle training & fine-tuning of transformer models
-            </li>
-            <li class="mb-3 d-flex align-items-center">
-              <span class="me-2">▷</span>
-              <strong>High-Performance Computing</strong>: Distributed training on HPC clusters
-            </li>
-            <li class="mb-3 d-flex align-items-center">
-              <span class="me-2">▷</span>
-              <strong>Deployment Architecture</strong>: Production-grade systems with Docker/Ray/vLLM
-            </li>
-            <li class="mb-3 d-flex align-items-center">
-              <span class="me-2">▷</span>
-              <strong>Model Optimization</strong>: Hyperparameter tuning & quantization techniques
-            </li>
-          </ul>
-        </div>
+<p style="line-height: 1.8;">
+My research in <strong>Enhancing LLM Evaluation: A Synthetic Data Approach to Context Understanding</strong> involves developing novel methodologies for assessing model performance. Using <strong>BERTopic</strong> and <strong>clustering techniques</strong>, I've created automated systems for medical text processing that eliminate manual post-processing. This work extends to detecting machine-generated content through <strong>ensemble classifiers</strong> analyzing multilingual web data, and developing AI-powered content rating systems using <strong>transformer architectures</strong>.
+</p>  
 
-        <div class="innovation-section mt-4">
-          <h3 class="h4 mb-3">Research Focus</h3>
-          <div class="d-grid gap-3">
-            <div class="p-3 bg-light rounded">
-              <h4 class="h6 mb-2">Language Model Advancement</h4>
-              <p class="mb-0">
-                Developing novel architectures for enhanced <strong>contextual reasoning</strong> and <strong>long-range dependencies</strong> in text generation
-              </p>
-            </div>
-            
-            <div class="p-3 bg-light rounded">
-              <h4 class="h6 mb-2">Efficient AI Systems</h4>
-              <p class="mb-0">
-                Creating optimized training pipelines for <strong>faster iteration cycles</strong> and <strong>reduced computational costs</strong>
-              </p>
-            </div>
-          </div>
-        </div>
+<p style="line-height: 1.8;">
+Combining <strong>scientific rigor</strong> with <strong>ML engineering</strong>, I optimize LLM applications through:
+<ul style="line-height: 1.8; margin-left: 1.5rem;">
+  <li><strong>Domain-Specific Fine-Tuning</strong>: Adapted GPT models for medical text analysis using custom tokenizers</li>
+  <li><strong>Evaluation Frameworks</strong>: Developed perplexity-based metrics for model validation across diverse datasets</li>
+  <li><strong>Efficient Deployment</strong>: Implemented Docker-based pipelines for clinical text processing systems</li>
+</ul>
+</p>
 
-              </div>
-      </div>
-    </div>
-  </div>
+<p style="line-height: 1.8;">
+My work bridges theoretical ML with practical healthcare solutions, employing <strong>HPC clusters</strong> for distributed training of medical LLMs and <strong>vLLM</strong> for optimized inference in clinical environments. This multidisciplinary approach demonstrates how advanced NLP techniques can transform complex domain-specific information into actionable insights.
+</p>
 
 
 <style>
