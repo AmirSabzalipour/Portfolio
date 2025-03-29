@@ -7,7 +7,7 @@ feature-img: "assets/img/pexels/travel2.JPG"
 ---
 
 ## About Me  
-<img src="https://raw.githubusercontent.com/AmirSabzalipour/Portfolio/main/assets/img/amir.jpg" 
+<img src="https://raw.githubusercontent.com/AmirSabzalipour/Portfolio/assets/img/amir.jpg" 
      alt="Amir Sabzalipour" 
      style="width: 100px; border-radius: 50%; display: block; margin: 0 auto;">
 
