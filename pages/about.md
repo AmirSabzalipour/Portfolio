@@ -9,7 +9,7 @@ feature-img: "assets/img/pexels/travel2.JPG"
 ## About Me  
 <img src="https://raw.githubusercontent.com/AmirSabzalipour/Portfolio/main/assets/img/amir.jpg" 
      alt="Amir Sabzalipour" 
-     style="width: 200px; border-radius: 50%; display: block; margin: 0 auto;">
+     style="width: 100px; border-radius: 50%; display: block; margin: 0 auto;">
 
 <p style="line-height: 1.8;">
 I am a machine learning researcher specializing in large language models (LLMs) and natural language processing (NLP), with a <strong>Ph.D. in Physics</strong> and <strong>postdoctoral research experience</strong>.  
