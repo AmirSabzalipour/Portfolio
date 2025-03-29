@@ -8,23 +8,24 @@ feature-img: "assets/img/pexels/travel2.JPG"
 
 ## About Me
 <div class="container mt-4">
-  <div class="row align-items-start">  <!-- Changed from justify-content-center -->
-    <div class="col-lg-3 text-start">  <!-- Changed column size and alignment -->
-      <figure class="mb-5">
+  <div class="row align-items-start">
+    <!-- Image column with reduced width -->
+    <div class="col-lg-2 text-lg-start ps-0">  <!-- ps-0 removes left padding -->
+      <figure class="mb-5 me-3" style="max-width: 150px;">  <!-- Added me-3 for right margin -->
         <img src="{{ '/assets/img/amir.jpg' | relative_url }}"
              alt="Amir's Profile Photo"
              class="img-fluid"
-             style="max-width: 200px; border: 1px solid #ddd;">
-        <figcaption class="mt-2">Amir Sabzalipour</figcaption>
+             style="max-width: 150px; height: auto; border: 1px solid #ddd;">
+        <figcaption class="mt-2 small">Amir Sabzalipour</figcaption>
       </figure>
     </div>
     
-    <!-- Add your content column here -->
-    <div class="col-lg-9">
-      <!-- Your text content goes here -->
+  <!-- Content column -->
+    <div class="col-lg-10">
+      <!-- Your text content here -->
       <p style="text-align: justify; line-height: 1.8;">
-        I am a machine learning researcher specializing...
-      </p>
+             </p>
+      <!-- Rest of your content -->
     </div>
   </div>
 </div>
