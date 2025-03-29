@@ -19,8 +19,8 @@ I am a machine learning researcher specializing in large language models (LLMs) 
         <img src="{{ '/assets/img/llm.jpg' | relative_url }}"
              alt="Amir's Profile Photo"
              class="img-fluid rounded-circle"
-             style="width: 200px; height: 200px; object-fit: cover; border: 2px solid #f0f0f0;">
-        <figcaption class="mt-2 fw-medium">Amir Sabzalipour</figcaption>
+             style="width: 600px; height: 100px; object-fit: cover; border: 2px solid #f0f0f0;">
+        <figcaption class="mt-2 fw-medium"></figcaption>
       </figure>
     </div>
     
