@@ -7,12 +7,10 @@ feature-img: "assets/img/pexels/travel2.JPG"
 ---
 
 ## About Me
-
 <div class="container mt-4">
-  <div class="row justify-content-center">
-    <div class="col-lg-8 text-center">
+  <div class="row align-items-start">  <!-- Changed from justify-content-center -->
+    <div class="col-lg-3 text-start">  <!-- Changed column size and alignment -->
       <figure class="mb-5">
-        <!-- Try these alternative src paths one by one -->
         <img src="{{ '/assets/img/amir.jpg' | relative_url }}"
              alt="Amir's Profile Photo"
              class="img-fluid"
@@ -20,7 +18,16 @@ feature-img: "assets/img/pexels/travel2.JPG"
         <figcaption class="mt-2">Amir Sabzalipour</figcaption>
       </figure>
     </div>
+    
+    <!-- Add your content column here -->
+    <div class="col-lg-9">
+      <!-- Your text content goes here -->
+      <p style="text-align: justify; line-height: 1.8;">
+        I am a machine learning researcher specializing...
+      </p>
+    </div>
   </div>
+</div>
 
 <p style="text-align: justify; line-height: 1.8; margin-bottom: 1.5rem;">
 I am a machine learning researcher specializing in large language models (LLMs) and natural language processing (NLP), with a <strong>Ph.D. in Physics</strong> and <strong>postdoctoral research experience</strong>. My current focus is developing <strong>EXPLAINMED</strong> - an AI system that transforms complex Dutch medical reports into patient-friendly language using <strong>LLM-powered terminology classification</strong> and <strong>context-aware translation pipelines</strong>. The system employs <strong>ensemble learning models</strong> achieving 97% accuracy in technical content detection, significantly improving health literacy for cardiac patients through automated jargon simplification.
