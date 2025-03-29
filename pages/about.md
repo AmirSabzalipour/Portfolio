@@ -12,7 +12,7 @@ feature-img: "assets/img/pexels/travel2.JPG"
     <!-- Image column with reduced width -->
     <div class="col-lg-2 text-lg-start ps-0">  <!-- ps-0 removes left padding -->
       <figure class="mb-5 me-3" style="max-width: 150px;">  <!-- Added me-3 for right margin -->
-        <img src="{{ '/assets/img/amir.jpg' | relative_url }}"
+        <img src="{{ '/assets/img/llm.jpg' | relative_url }}"
              alt="Amir's Profile Photo"
              class="img-fluid"
              style="max-width: 150px; height: auto; border: 1px solid #ddd;">
