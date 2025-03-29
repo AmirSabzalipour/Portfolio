@@ -13,24 +13,22 @@ feature-img: "assets/img/pexels/travel2.JPG"
 I am a machine learning researcher specializing in large language models (LLMs) and natural language processing (NLP), with a <strong>Ph.D. in Physics</strong> and <strong>postdoctoral research experience</strong>. My current focus is developing <strong>EXPLAINMED</strong> - an AI system that transforms complex Dutch medical reports into patient-friendly language using <strong>LLM-powered terminology classification</strong> and <strong>context-aware translation pipelines</strong>. The system employs <strong>ensemble learning models</strong> achieving 97% accuracy in technical content detection, significantly improving health literacy for cardiac patients through automated jargon simplification.
 </p>  
 <div class="container mt-4">
-  <div class="row align-items-start">
-    <!-- Image column with reduced width -->
-    <div class="col-lg-8 text-lg-start ps-0">  <!-- ps-0 removes left padding -->
-      <figure class="mb-5 me-3" style="max-width: 400px;">  <!-- Added me-3 for right margin -->
+  <div class="row align-items-center g-0"> <!-- Vertical centering -->
+    <div class="col-md-3 text-center"> <!-- Centered column -->
+      <figure class="mb-4 mb-md-0"> <!-- Margin bottom on mobile -->
         <img src="{{ '/assets/img/llm.jpg' | relative_url }}"
              alt="Amir's Profile Photo"
-             class="img-fluid"
-             style="max-width: 400px; height: auto; border: 1px solid #ddd;">
-        <figcaption class="mt-2 small"></figcaption>
+             class="img-fluid rounded-circle"
+             style="width: 200px; height: 200px; object-fit: cover; border: 2px solid #f0f0f0;">
+        <figcaption class="mt-2 fw-medium">Amir Sabzalipour</figcaption>
       </figure>
     </div>
     
-  <!-- Content column -->
-    <div class="col-lg-10">
-      <!-- Your text content here -->
+    <div class="col-md-9 ps-md-4"> <!-- Add left padding on desktop -->
+      <!-- Your content here -->
       <p style="text-align: justify; line-height: 1.8;">
-             </p>
-      <!-- Rest of your content -->
+        I am a machine learning researcher specializing...
+      </p>
     </div>
   </div>
 </div>
