@@ -7,6 +7,42 @@ feature-img: "assets/img/pexels/travel2.JPG"
 ---
 
 ## About Me  
+
+ <div class="row">
+        <div class="col-lg-8">
+          <div class="image-container d-flex">
+            <div class="image-item">
+              <img
+                src="m5.jpg"
+                alt="Portrait of Mary Shelley"
+                class="mary-photo img-fluid"
+              />
+              <p class="image-caption">Mary Shelley, 1797-1851</p>
+            </div>
+            <div class="image-item">
+              <img
+                src="m5.jpg"
+                alt="Portrait of Percy Shelley"
+                class="percy-photo img-fluid"
+              />
+              <p class="image-caption">Percy Shelley, 1819-1889</p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
 <img src="https://raw.githubusercontent.com/AmirSabzalipour/Portfolio/assets/img/amir.jpg" 
      alt="Amir Sabzalipour" 
      style="width: 100px; border-radius: 50%; display: block; margin: 0 auto;">
