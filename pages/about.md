@@ -21,7 +21,7 @@ I am a machine learning researcher specializing in large language models (LLMs) 
              alt="Amir's Profile Photo"
              class="img-fluid"
              style="max-width: 400px; height: auto; border: 1px solid #ddd;">
-        <figcaption class="mt-2 small">Amir Sabzalipour</figcaption>
+        <figcaption class="mt-2 small"></figcaption>
       </figure>
     </div>
     
