@@ -4,11 +4,9 @@ title: About
 permalink: /about/
 position: 1
 feature-img: "assets/img/pexels/travel2.JPG"
-
+---
 
 ## About Me  
-## About Me  
-
 <img src="https://raw.githubusercontent.com/AmirSabzalipour/Portfolio/main/assets/img/amir.jpg" 
      alt="Amir Sabzalipour" 
      style="width: 200px; border-radius: 50%; display: block; margin: 0 auto;">
