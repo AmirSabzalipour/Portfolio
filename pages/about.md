@@ -12,14 +12,12 @@ feature-img: "assets/img/pexels/travel2.JPG"
   <div class="row justify-content-center">
     <div class="col-lg-8 text-center">
       <figure class="mb-5">
-        <img src="/assets/img/amir.jpg" 
-             alt="Amir, Machine Learning Researcher" 
-             class="img-fluid rounded-circle shadow-lg"
-             style="max-width: 300px; border: 3px solid #f8f9fa;">
-        <figcaption class="mt-3 h5">
-          Amir<br>
-          <small class="text-muted d-block mt-1">AI Researcher & LLM Specialist</small>
-        </figcaption>
+        <!-- Try these alternative src paths one by one -->
+        <img src="{{ '/assets/img/amir.jpg' | relative_url }}"
+             alt="Amir's Profile Photo"
+             class="img-fluid"
+             style="max-width: 300px; border: 2px solid #ddd;">
+        <figcaption class="mt-2">Amir - AI Researcher</figcaption>
       </figure>
     </div>
   </div>
