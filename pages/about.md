@@ -7,15 +7,20 @@ feature-img: "assets/img/pexels/travel2.JPG"
 ---
 
 ## About Me
+
+
+<p style="text-align: justify; line-height: 1.8; margin-bottom: 1.5rem;">
+I am a machine learning researcher specializing in large language models (LLMs) and natural language processing (NLP), with a <strong>Ph.D. in Physics</strong> and <strong>postdoctoral research experience</strong>. My current focus is developing <strong>EXPLAINMED</strong> - an AI system that transforms complex Dutch medical reports into patient-friendly language using <strong>LLM-powered terminology classification</strong> and <strong>context-aware translation pipelines</strong>. The system employs <strong>ensemble learning models</strong> achieving 97% accuracy in technical content detection, significantly improving health literacy for cardiac patients through automated jargon simplification.
+</p>  
 <div class="container mt-4">
   <div class="row align-items-start">
     <!-- Image column with reduced width -->
-    <div class="col-lg-2 text-lg-start ps-0">  <!-- ps-0 removes left padding -->
-      <figure class="mb-5 me-3" style="max-width: 150px;">  <!-- Added me-3 for right margin -->
+    <div class="col-lg-8 text-lg-start ps-0">  <!-- ps-0 removes left padding -->
+      <figure class="mb-5 me-3" style="max-width: 400px;">  <!-- Added me-3 for right margin -->
         <img src="{{ '/assets/img/llm.jpg' | relative_url }}"
              alt="Amir's Profile Photo"
              class="img-fluid"
-             style="max-width: 150px; height: auto; border: 1px solid #ddd;">
+             style="max-width: 400px; height: auto; border: 1px solid #ddd;">
         <figcaption class="mt-2 small">Amir Sabzalipour</figcaption>
       </figure>
     </div>
@@ -29,10 +34,6 @@ feature-img: "assets/img/pexels/travel2.JPG"
     </div>
   </div>
 </div>
-
-<p style="text-align: justify; line-height: 1.8; margin-bottom: 1.5rem;">
-I am a machine learning researcher specializing in large language models (LLMs) and natural language processing (NLP), with a <strong>Ph.D. in Physics</strong> and <strong>postdoctoral research experience</strong>. My current focus is developing <strong>EXPLAINMED</strong> - an AI system that transforms complex Dutch medical reports into patient-friendly language using <strong>LLM-powered terminology classification</strong> and <strong>context-aware translation pipelines</strong>. The system employs <strong>ensemble learning models</strong> achieving 97% accuracy in technical content detection, significantly improving health literacy for cardiac patients through automated jargon simplification.
-</p>  
 
 <p style="text-align: justify; line-height: 1.8; margin-bottom: 1.5rem;">
 My research in <strong>Enhancing LLM Evaluation: A Synthetic Data Approach to Context Understanding</strong> involves developing novel methodologies for assessing model performance. Using <strong>BERTopic</strong> and <strong>clustering techniques</strong>, I've created automated systems for medical text processing that eliminate manual post-processing. This work extends to detecting machine-generated content through <strong>ensemble classifiers</strong> analyzing multilingual web data, and developing AI-powered content rating systems using <strong>transformer architectures</strong>.
