@@ -1,8 +1,10 @@
 ---
 layout: post
-title: "Welcome"
-tags: [Katex, Mermaid, Markdown]
-categories: Demo
+title: "Welcom"
+color: rgb(250, 50, 50)
+feature-img: "assets/img/feature-img/explain2.jpg"
+thumbnail: "assets/img/thumbnails/feature-img/explain2.jpg"
+tags: [Highlight, Markdown]
 ---
 
 <!-- Add Font Awesome CDN -->
