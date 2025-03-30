@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Welcome"
-date: ""  # Empty string (may cause issues)
 tags: [Katex, Mermaid, Markdown]
 categories: Demo
 ---
