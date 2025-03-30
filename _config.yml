@@ -40,8 +40,7 @@ paginate_path: "/blog/page:num"
 
 # PORTFOLIO
 collections:
-my_posts:  
-  portfolio:
+portfolio:
     output: true
     permalink: /:collection/:name
 
