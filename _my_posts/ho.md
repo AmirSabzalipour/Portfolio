@@ -1,11 +1,40 @@
 ---
 layout: post
-title: "EXPLAINMED: Simplifying Medical Reports for Patients"
-color: rgb(250, 50, 50)
-feature-img: "assets/img/feature-img/explain2.jpg"
-thumbnail: "assets/img/thumbnails/feature-img/explain2.jpg"
-tags: [Highlight, Markdown]
+title: "Welcome"
+tags: [Katex, Mermaid, Markdown]
+categories: Demo
 ---
+<!-- Add Font Awesome CDN -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+<div class="contact-links" style="display: flex; flex-wrap: wrap; gap: 3rem; padding: 2rem; background: #f8f9fa; border-radius: 30px; margin: 2rem 0;">
+    </div> 
 
-EXPLAINMED is a tool that uses AI, large language models, and NLP (Natural Language Processing) to simplify complex medical reports written in Dutch into everyday language. The system automatically classifies and translates medical terms, making the information more understandable for patients, especially those with heart disease. By breaking down technical jargon, EXPLAINMED helps patients better understand their diagnosis and treatment, improving adherence and potentially reducing healthcare costs.
-
+<div class="container mt-4 rounded-3 p-4 shadow-sm" 
+     style="background: linear-gradient(135deg, #f8fbfd 0%, #f1f5f9 100%); border: 1px solid #e9ecef;">
+  <div class="row align-items-center">
+    <div class="col-12">
+      <div class="bg-white p-4 rounded-3 mb-3">
+        <header class="mb-4">
+          <h1 class="h2 text-dark mb-3">Amir Sabzalipour</h1>
+          <hr class="mb-4">
+        </header>
+        <div class="content">
+          <p class="lead text-secondary lh-lg mb-4">
+            I develop AI systems that understand and generate human language, creating practical tools for real-world challenges. Based in Antwerp, Belgium, I specialize in making complex language technology accessible and effective through careful design and optimization.
+          </p>
+              <p class="text-muted mb-4">
+            For a complete overview of my background, technical skills, and research philosophy, please visit my About page. Below you'll find selected projects demonstrating these principles in action.
+          </p>
+                    <div class="d-flex flex-column flex-md-row gap-3">
+            <a href="/about/" class="btn btn-outline-primary px-4">
+              Full Profile & Expertise →
+            </a>
+            <a href="#projects" class="btn btn-link text-primary text-decoration-underline">
+              View Project Case Studies ↓
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
