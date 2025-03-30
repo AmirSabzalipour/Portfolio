@@ -8,7 +8,7 @@ position: 5
 ---
 <!-- Add Font Awesome CDN -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
-<div class="contact-links" style="display: flex; flex-wrap: wrap; gap: 2rem; padding: 2rem; background: #f8f9fa; border-radius: 20px; margin: 2rem 0;">
+<div class="contact-links" style="display: flex; flex-wrap: wrap; gap: 3rem; padding: 2rem; background: #f8f9fa; border-radius: 30px; margin: 2rem 0;">
     <!-- Email -->
     <div class="contact-item email" style="display: flex; align-items: center; gap: 0.75rem; color: #333; text-decoration: none;">
         <i class="fab fa-google" style="font-size: 1.6rem; color: #FF0000;"></i>
