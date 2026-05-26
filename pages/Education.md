@@ -7,15 +7,6 @@ feature-img: "assets/img/pexels/travel2.JPG"
 position: 4
 ---
 
---- 
-layout: page
-title : Education 
-permalink: /Education/
-subtitle: "" 
-feature-img: "assets/img/pexels/travel2.JPG"
-position: 4
----
-
 <link href="https://fonts.googleapis.com/css2?family=Syne:wght@400;600;700;800&family=DM+Mono:ital,wght@0,300;0,400;1,300&display=swap" rel="stylesheet"/>
 
 <style>
